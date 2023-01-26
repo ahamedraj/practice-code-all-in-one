@@ -1,0 +1,55 @@
+header{
+    text-align:center ;
+    /* background-color: chartreuse; */
+     color: chartreuse; 
+     background-image: url('images/best-20-web-development-blogs.png');
+    /* background-image: url('../web-design-background.png'); */
+    /* background-image: url('../top11.png'); */
+    /* background-image: url('images/0924a7ef295741e916c8f42512bbe5bd.jpg'); */
+    /* background-image: url('../download.jpg'); */
+      height: 400px;
+      width: auto;
+     background-size:cover; 
+     background-position:bottom ; 
+     background-repeat: no-repeat;
+     background-color: gray;
+     background-blend-mode: multiply;
+}
+div{
+  text-align:left;
+   margin-top: 10px; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* background-color:chartreuse; */
+}
+button{
+  color: darkgreen;
+}
+
+img{
+  height:300px;
+   width:400px;
+   margin-left: 300px;
+   /* vspace: 300px; */
+}
+
+table{
+  border: 1px solid black;
+  height: 250px;
+  width: 300px;
+  border-spacing: 15px;
+
+}
+th,td{
+  border: 2px solid ;
+  padding: 10px;
+}
+ h3{
+  text-align: center;
+  background-color: darkgreen;
+ }
+
+ p{
+  text-align: center;
+  color: lightcoral;
+ }
+ 
